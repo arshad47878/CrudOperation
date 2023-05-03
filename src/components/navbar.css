@@ -1,0 +1,22 @@
+.nav-ul {
+  display: flex;
+  justify-content: end;
+}
+.nav-ul li {
+  list-style: none;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.nav-ul button {
+  padding: 15px;
+  width: auto;
+  background-color: oldlace;
+  border: none;
+  outline: none;
+  border-radius: 15px;
+}
+.nav-ul button:last-child {
+  padding: 15px;
+  width: auto;
+  background-color: oldlace;
+}
